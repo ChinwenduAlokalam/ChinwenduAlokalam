@@ -3,7 +3,7 @@
 I’m an aspiring Data Analyst learning how to turn raw numbers into clear, meaningful insights.
 Right now, I'm focused on building my skills through hands-on projects by writing SQL Queries, dax Expressions and creating dashboardsto answer practical business questions
 
-# 😄 Pronouns: Her/She
+### 😄 Pronouns: Her/She
 
 ## 📊 What I'm Practising
 - Writing clean begineer-friendly SQL Queries (PostgreSQL)
@@ -19,6 +19,6 @@ Right now, I'm focused on building my skills through hands-on projects by writin
 - Power Bi dashboard design and DAX basics
 - How to ask better questions
 
-##📮 Let's Connect
+###📮 Let's Connect
 - ✉ [Email](chinwendualokalam@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/chinwendu-alokalam-11a3aa348)
