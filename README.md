@@ -20,5 +20,5 @@ Right now, I'm focused on building my skills through hands-on projects by writin
 - How to ask better questions
 
 ### 📮 Let's Connect
-- ✉ [chinwendualokalam@gmail.com](mailto:chinwendualokalam@gmail.com)
+- ✉ [Email](mailto:chinwendualokalam@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chinwendu-alokalam-11a3aa348/)
