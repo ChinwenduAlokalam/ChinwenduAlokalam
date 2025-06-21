@@ -14,11 +14,11 @@ Right now, I'm focused on building my skills through hands-on projects by writin
 - Simple SQL queries tackling real-life business scenarios
 - Practice dashboards and Visualisations
 
-##🌱 I'm Currently Learning 
+## 🌱 I'm Currently Learning 
 - Deeper SQL Queries like window functions
 - Power Bi dashboard design and DAX basics
 - How to ask better questions
 
-###📮 Let's Connect
+## 📮 Let's Connect
 - ✉ [Email](chinwendualokalam@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/chinwendu-alokalam-11a3aa348)
