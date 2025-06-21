@@ -1,13 +1,24 @@
-- 👋 Hi, I’m Chinwendu Alokalam
-- 👀 I’m interested in uncovering insights from large datasets and building interactive dashboards
-- 🌱 I’m currently learning Advanced SQL Queries, R, and how to build dashboards 
-- 💞️ I’m looking to collaborate on projects involving real-world datasets
-- Skills: SQL, Excel, Power BI
-- 📧 [Email](chinwendualokalam@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/chinwendu-alokalam-11a3aa348)
-- 😄 Pronouns: Her/She
 
-<!---
-ChinwenduAlokalam/ChinwenduAlokalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Chinwendu Alokalam
+I’m an aspiring Data Analyst learning how to turn raw numbers into clear, meaningful insights.
+Right now, I'm focused on building my skills through hands-on projects by writing SQL Queries, dax Expressions and creating dashboardsto answer practical business questions
+
+# 😄 Pronouns: Her/She
+
+## 📊 What I'm Practising
+- Writing clean begineer-friendly SQL Queries (PostgreSQL)
+- Exploring datasets, especially around sales and revenue
+- Documenting my learning through small projects
+
+##📕 What You'll Find Here
+- Simple SQL queries tackling real-life business scenarios
+- Practice dashboards and Visualisations
+
+##🌱 Currently Learning 
+- Deeper SQL Queries like window functions
+- Power Bi dashboard design and DAX basics
+- How to ask better questions
+
+##📮 Let's Connect
+- ✉ [Email](chinwendualokalam@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/chinwendu-alokalam-11a3aa348)
