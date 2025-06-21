@@ -19,6 +19,7 @@ Right now, I'm focused on building my skills through hands-on projects by writin
 - Power Bi dashboard design and DAX basics
 - How to ask better questions
 
-### 📮 Let's Connect
-- ✉ [Email](mailto:chinwendualokalam@gmail.com)
+### 📮 Reach Out Anytime 
+If you’d like to connect, offer advice, feedback, or simply say hello, you can reach me at:
+- 📧 [Email](mailto:chinwendualokalam@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chinwendu-alokalam-11a3aa348/)
