@@ -3,8 +3,6 @@
 An aspiring Data Analyst learning how to turn raw numbers into clear, meaningful insights.
 Right now, I'm focused on building my skills through hands-on projects by writing SQL Queries, DAX Expressions and creating dashboards to answer practical business questions
 
-##### 👩🏾 Pronouns: Her/She
-
 ### 📊 I'm Practising
 - Writing clean beginner-friendly SQL Queries (PostgreSQL)
 - Exploring datasets, especially around sales and revenue
