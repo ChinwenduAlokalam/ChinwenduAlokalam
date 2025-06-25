@@ -27,3 +27,4 @@ I'm currently focused on:
 If you’d like to connect, offer advice, feedback, or simply say hello, you can reach me at:
 - 📧 [Email](mailto:chinwendualokalam@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chinwendu-alokalam-11a3aa348/)
+- 📞 [Phone](2348164187910)
