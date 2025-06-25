@@ -17,10 +17,6 @@ In this space, I:
 - Write clean beginner-friendly SQL Queries (PostgreSQL)
 - Explore datasets, especially around sales and revenue
 - Document my learning through small projects
-  
-Here, you'll find:
-- Simple SQL queries tackling real-life business scenarios
-- Practice dashboards and Visualisations
 
 I'm currently focused on:
 - Developing more advanced SQL skills, including window functions and CTEs
